@@ -5,8 +5,6 @@ description: "Use when the user asks to load or follow the jacobe 12-rule templa
 
 # jacobe-skill
 
-Source: https://raw.githubusercontent.com/large-cat/jacobe-skill/main/CLAUDE.md
-
 When this skill is invoked, follow the loaded instructions below unless the user explicitly overrides them or higher-priority instructions conflict.
 
 # CLAUDE.md — 12-rule template
